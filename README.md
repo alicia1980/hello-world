@@ -1,2 +1,2 @@
 # hello-world
-tutorial activate
+tutorial activity
